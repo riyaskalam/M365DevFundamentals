@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsTable", "NewsTable\NewsTable.csproj", "{B02D10B1-9CE5-43F8-BA0D-39359083EA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02D10B1-9CE5-43F8-BA0D-39359083EA22}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED04E19-344C-49C8-8A65-A2B272A2AB1B}
+	EndGlobalSection
+EndGlobal

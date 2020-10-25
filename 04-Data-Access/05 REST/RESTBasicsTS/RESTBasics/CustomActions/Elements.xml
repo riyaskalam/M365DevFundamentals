@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="Integrations.RESTBasics"
+    GroupId="SiteActions"
+    Location="Microsoft.SharePoint.StandardMenu"
+    Sequence="1000"
+    Title="REST Basics">
+    <UrlAction Url="_layouts/15/RESTBasics/RESTBasics.aspx"/>
+  </CustomAction>
+</Elements>

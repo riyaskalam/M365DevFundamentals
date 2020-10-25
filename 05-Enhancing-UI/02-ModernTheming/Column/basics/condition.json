@@ -1,0 +1,71 @@
+{
+	"$schema": "http://columnformatting.sharepointpnp.com/columnFormattingSchema.json",
+	"debugMode": true,
+	"elmType": "div",
+	"txtContent": {
+		"operator": "+",
+		"operands": [
+			{
+				"operator": "toString()",
+				"operands": [
+					{
+						"operator": "*",
+						"operands": [ "@currentField", 100 ]
+					}
+				]
+			},
+			"%"
+		]
+	},
+	"attributes": {
+		"class": {
+			"operator": "?",
+			"operands": [
+				{
+					"operator": "<",
+					"operands": [ "@currentField", "0.5" ]
+				},
+				"ms-bgColor-red ms-fontColor-black sp-field-dataBars ms-borderColor-redDark",
+				{
+					"operator": "?",
+					"operands": [
+						{
+							"operator": "<",
+							"operands": [ "@currentField", "1" ]
+						},
+						"ms-bgColor-yellow ms-fontColor-black sp-field-dataBars ms-borderColor-orangeLight",
+						"ms-bgColor-tealLight ms-fontColor-black sp-field-dataBars ms-borderColor-tealDark"
+					]
+				}
+			]
+		}
+	},
+	"style": {
+		"padding-left": "4px",
+		"width": {
+			"operator": "?",
+			"operands": [
+				{
+					"operator": "==",
+					"operands": [ "@currentField", "1" ]
+				},
+				"100%",
+				{
+					"operator": "+",
+					"operands": [
+						{
+							"operator": "toString()",
+							"operands": [
+								{
+									"operator": "*",
+									"operands": [ "@currentField", 100 ]
+								}
+							]
+						},
+						"%"
+					]
+				}
+			]
+		}
+	}
+}

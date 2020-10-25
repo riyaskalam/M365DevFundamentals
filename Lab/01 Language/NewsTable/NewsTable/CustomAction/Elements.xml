@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="NewsTable"
+    GroupId="SiteActions"
+    Location="Microsoft.SharePoint.StandardMenu"
+    Sequence="1000"
+    Title="News Table">
+    <UrlAction Url="_layouts/15/NewsTable/NewsTable.aspx"/>
+  </CustomAction>
+</Elements>

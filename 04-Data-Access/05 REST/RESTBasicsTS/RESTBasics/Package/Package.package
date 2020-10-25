@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c55511af-a829-4810-87f5-e168e973df8e" solutionId="c55511af-a829-4810-87f5-e168e973df8e" resetWebServer="false" sharePointProductVersion="16.0" name="RESTBasics" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c1985f15-f374-4d8a-bb8c-8b79c327e144" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="64c8c73f-05c2-4db1-bd8e-64e30c3664dd" />
+  </projectItems>
+</package>

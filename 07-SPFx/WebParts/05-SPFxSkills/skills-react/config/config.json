@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "skills-reactv-1-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/skillsReactv1/SkillsReactv1WebPart.js",
+          "manifest": "./src/webparts/skillsReactv1/SkillsReactv1WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SkillsReactv1WebPartStrings": "lib/webparts/skillsReactv1/loc/{locale}.js"
+  }
+}

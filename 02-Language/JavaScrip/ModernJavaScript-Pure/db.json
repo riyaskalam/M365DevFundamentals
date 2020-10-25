@@ -1,0 +1,118 @@
+{
+  "vouchers": [
+    {
+      "ID": 3,
+      "Text": "Amazon",
+      "Date": "2019-09-19T09:01:10.6754958",
+      "Amount": 56.0,
+      "Paid": false,
+      "Expense": true,
+      "Remark": false,
+      "Details": [
+        {
+          "ID": 2,
+          "VoucherID": 3,
+          "AccountID": 1,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "USB Stick",
+          "Amount": 11,
+          "Comment": null
+        },
+        {
+          "ID": 3,
+          "VoucherID": 3,
+          "AccountID": 1,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "DVI Kabel",
+          "Amount": 45,
+          "Comment": null
+        },
+        {
+          "ID": 7,
+          "VoucherID": 3,
+          "AccountID": 6,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "Game of Thrones, Season 6",
+          "Amount": 29,
+          "Comment": null
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Text": "BP Tankstelle",
+      "Date": "2019-09-19T09:01:10.6754945",
+      "Amount": 65.0,
+      "Paid": false,
+      "Expense": true,
+      "Remark": true,
+      "Details": [
+        {
+          "ID": 6,
+          "VoucherID": 2,
+          "AccountID": 2,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "Reifenwechsel",
+          "Amount": 20,
+          "Comment": null
+        },
+        {
+          "ID": 4,
+          "VoucherID": 2,
+          "AccountID": 2,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "Diesel",
+          "Amount": 45,
+          "Comment": null
+        }
+      ]
+    },
+    {
+      "ID": 1,
+      "Text": "Bogus AG",
+      "Date": "2019-09-19T09:01:10.67536",
+      "Amount": 800.0,
+      "Paid": false,
+      "Expense": false,
+      "Remark": true,
+      "Details": [
+        {
+          "ID": 5,
+          "VoucherID": 1,
+          "AccountID": 4,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "Remote Support",
+          "Amount": 800,
+          "Comment": null
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "Text": "Media Markt",
+      "Date": "2019-09-18T09:01:10.6754965",
+      "Amount": 100.0,
+      "Paid": true,
+      "Expense": true,
+      "Remark": false,
+      "Details": [
+        {
+          "ID": 1,
+          "VoucherID": 4,
+          "AccountID": 1,
+          "Account": null,
+          "VATRate": 0,
+          "Text": "Ladekabel",
+          "Amount": 100,
+          "Comment": null
+        }
+      ]
+    }
+  ]
+}

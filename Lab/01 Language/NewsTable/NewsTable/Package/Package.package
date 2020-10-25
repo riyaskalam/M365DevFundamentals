@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6b103c6a-b0e5-48fc-b88b-34494e834993" solutionId="6b103c6a-b0e5-48fc-b88b-34494e834993" resetWebServer="false" sharePointProductVersion="16.0" name="NewsTable" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="9af880df-feb6-4174-8d1a-65cafefbb093" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="49fe4b27-c7fa-4280-ad8f-5d8cacff8fd8" />
+  </projectItems>
+</package>

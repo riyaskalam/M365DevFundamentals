@@ -1,0 +1,24 @@
+[
+  // Save all
+  {
+    "key": "ctrl+s",
+    "command": "workbench.action.files.saveAll"
+  },
+  // Stage current file
+  {
+    "key": "alt+s",
+    "command": "git.stage"
+  },
+  // Delete line
+  {
+    "key": "ctrl+l",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  //Open Terminal of Type using Shell Launcher Extension
+  {
+    "key": "ctrl+shift+numpad_subtract",
+    "command": "shellLauncher.launch"
+  }
+]
+
