@@ -26,7 +26,7 @@ Nach Abschluss dieses Seminars haben die Teilnehmer Wissen zu folgenden Themen:
 - Using SPA Frameworks - React & Angular
 - Introduction to SharePoint Framework
 - Introduction to Teams & Office Add-In Development
-- DevOps & Application Lifecycle Management (ALM)
+- Provisioning & Microsoft 365 DevOps
 - No Code Solutions using the Power Platform
 
 ## Zielgruppe
@@ -115,7 +115,9 @@ SharePoint Framework Basics (SPFx)
 - SharePoint Framework SPFx Overview
 - When to use SPFx / When to use other Patterns
 - Implementing SharePoint Framework Web Parts
-- Using Office UI Fabric React
+- Exposing Properties & Data Access
+- Using Fluent UI React
+- SharePoint Framework Extension Samples
 
 Teams & Add-In Basics
 
@@ -125,6 +127,12 @@ Teams & Add-In Basics
 - External SPA as Teams App
 - Add-In Intro
 - Scaffolding & Implementing an Outlook React Add-In
+
+Provisioning & Microsoft 365 DevOps
+
+- SharePoint Site Provisioning
+- Deployment Options for SPFx, Teams & Single Page Applications
+- Deploying a Teams App using Azure DevOps
 
 No-Code-Solutions using Microsoft Power Platform
 
