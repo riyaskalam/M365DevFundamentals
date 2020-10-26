@@ -9,7 +9,7 @@
 ## Kursbeschreibung
 
 Durch die zunehmende Bedeutung von Clientseitigen Technologien stehen viele SharePoint Entwickler vor der Herausforderung ihr Skillset in Richtung JavaScript & TypeScript, sowie Open Source Tooling wie Glup, Node.js erweitern zu müssen um für das neue SharePoint Framework gerüstet zu sein
-Dieser Workshop setzt voraus, dass sie grundlegende Kenntnisse als Web Entwickler (HTML/JavaScript) und Erfahrung mit SharePoint Development haben, und bietet Ihnen die Möglichkeit sich die Skills für clientseitiges SharePoint Development in Kompakter Form anzueignen.
+Dieser Workshop setzt voraus, dass sie grundlegende Kenntnisse als Web Entwickler (HTML/JavaScript) haben, und bietet Ihnen die Möglichkeit sich die Grundlage für Microsoft 365-, Teams und Office Add-In Development in Kompakter Form anzueignen.
 Die hier erworbenen Kenntnisse können sie in Microsoft 365 einsetzen. Sie stellen die Basis für eine Vertiefung in Richtung SharePoint Framework Development, sowie MS-600 Building Applications and Solutions with Microsoft 365 Core Services dar.
 
 Nach Abschluss dieses Seminars haben die Teilnehmer Wissen zu folgenden Themen:
@@ -31,7 +31,7 @@ Nach Abschluss dieses Seminars haben die Teilnehmer Wissen zu folgenden Themen:
 
 ## Zielgruppe
 
-Dieses Seminar richtet sich an SharePoint Entwickler welche Ihre serverseitigen SharePoint Entwicklerkenntnisse in Richtung Client Side-Development mit Fokus JavaScrit / TypeScript erweitern möchten umso Lösungen für Microsoft 365 und Microsft Teams zu implementieren.
+Dieses Seminar richtet sich an SharePoint Entwickler welche Ihre serverseitigen SharePoint Entwicklerkenntnisse in Richtung Microsoft 365 Development inklusive Teams Programmierung erweitern möchten umso Lösungen für Microsoft 365 und Microsft Teams zu implementieren.
 
 ## Vortragsart
 
