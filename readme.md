@@ -119,13 +119,13 @@ SharePoint Framework Basics (SPFx)
 - Using Fluent UI React
 - SharePoint Framework Extension Samples
 
-Teams & Add-In Basics
+Teams & Office Add-In Basics
 
-- Microsoft Teams Intro
+- Microsoft Teams Introduction
 - SPFx as Teams Tab
 - Public Teams Tab
 - External SPA as Teams App
-- Add-In Intro
+- Office Add-In Introduction
 - Scaffolding & Implementing an Outlook React Add-In
 
 Provisioning & Microsoft 365 DevOps
