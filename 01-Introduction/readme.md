@@ -1,9 +1,5 @@
 # Introduction
 
-## SharePoint 2019
-
-[SharePoint Server 2019 development platform](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/sharepoint-2019-development-platform)
-
 ## Microsoft 365
 
 [Hub Sites](https://docs.microsoft.com/en-us/sharepoint/dev/features/hub-site/hub-site-overview)
@@ -61,19 +57,20 @@ Install CLIs:
 npm i -g gulp bable webpack
 ```
 
-Run a gulp task: 
+Run a gulp task:
 
 ```
 gulp babel
 gulp compile-sass
 ```
-Run webpack: 
+
+Run webpack:
 
 ```
 webpack
 ```
-> Note: Uses `webpack.config.js` by default
 
+> Note: Uses `webpack.config.js` by default
 
 ### Links & Ressources
 
